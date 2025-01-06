@@ -92,25 +92,25 @@ Course days will generally have the following schedule:
 
 *Note that the course material is still going to change before and (maybe even during ;-) the course week.*
 
-*Monday* (September 26) -	[Introduction](Day1/Day1.pdf)  
-*Lecturer* 	Marcel Reinders  
-*Subjects* 	Introduction to machine learning: measurements, features, classification. Supervised vs. unsupervised learning, relation to regression. Bayesian framework: risk, cost; evaluation: ROCs, cross-validation. Density estimation: histograms, nearest neighbour, Parzen, Gaussian Bayesian classification.  
-
-*Tuesday* (September 27) - *[Classifiers](Day2/Day2.pdf)*   
+*Monday* (January 20) -	*Introduction and classifers*  
 *Lecturer* 	Perry Moerland  
-*Subjects* 	Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: LDA, logistic regression. Decision trees and random forests.  
+*Subjects* 	Introduction to machine learning. Density estimation: histograms, nearest neighbour, Parzen. Bayesian classification.  Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: logistic regression.
 
-*Wednesday* (September 28) - *[Feature selection and extraction](Day3/Day3.pdf)*  
+*Tuesday* (January 21) - *Classifiers (continued) and clustering*   
+*Lecturer* 	Perry Moerland  
+*Subjects* 	Decision trees and random forests. Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization.
+
+*Wednesday* (January 22) - *Feature selection and extraction*  
 *Lecturer* 	Lodewyk Wessels  
-*Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Sparse classifiers: Ridge, LASSO. Feature extraction: PCA, Fisher. Embeddings: MDS.  
+*Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Feature extraction: PCA, Fisher. Embeddings: MDS t-SNE. Sparse classifiers: Ridge, LASSO. 
 
-*Thursday* (September 29) - *[Clustering and HMMs](Day4/Day4.pdf)*  
-*Lecturer* 	Perry Moerland  
-*Subjects* 	Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization. Hidden Markov models.  
-
-*Friday*  (September 30) - *[Selected advanced topics](Day5/Day5.pdf)*  
+*Thursday* (January 23) - *Neural networks and support vector machines*  
 *Lecturer* 	Marcel Reinders  
-*Subjects* 	Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation. Deep learning.  
+*Subjects*  Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation.
+
+*Friday*  (January 24) - *Variational autoencoders and diffusion models*  
+*Lecturer* 	Marcel Reinders  
+*Subjects* 	Deep learning: variational autoencoders, diffusion models.  
 
 ## Pointers
 Additional tools (not required for the course, but perhaps interesting):
