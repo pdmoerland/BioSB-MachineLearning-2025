@@ -130,6 +130,7 @@ Additional tools (not required for the course, but perhaps interesting):
 
 Some good material for further reading:
    * G. James, D. Witten, T. Hastie and R. Tibshirani, [An Introduction to Statistical Learning](https://www.statlearning.com/), also freely available on-line with R code and Jupyter notebooks,  slides, videos etc.
+   * K.P. Murphy, [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html), also freely available on-line with Python code.
    * R.O. Duda, P.E. Hart and D.G. Stork, [Pattern classification](https://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1232058027&sr=8-1), 2nd ed., 2000. ISBN: 0471056693.
    * C. Bishop, [Pattern recognition and machine learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_bxgy_b_img_b), 2007. ISBN: 0387310738.
    * T. Hastie, R. Tibshirani and J. Friedman, [The elements of statistical learning: data mining, inference, and prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), 2nd ed., 2009. ISBN: 0387848576.
