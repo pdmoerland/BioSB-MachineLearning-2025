@@ -2,8 +2,8 @@
 
 # Machine Learning for Bioinformatics & Systems Biology
 
-  * [Learning objectives](#learning-objectives)
   * [Target audience](#target-audience)
+  * [Learning objectives](#learning-objectives)
   * [Description](#description)
   * [Registration](#registration)
   * [Course material](#course-material)
@@ -13,36 +13,35 @@
   * [Pointers](#pointers)
   
 A yearly course, part of the [BioSB](https://www.dtls.nl/biosb/) Research School
-	
+
+*Course coordinator*:
+   * dr. ir. Perry Moerland
+   * e-mail: p.d.moerland@amsterdamumc.nl	
+
 *Lecturers*
    * dr. ir. Perry Moerland (Amsterdam UMC, location: Academic Medical Center)   
    * prof. dr. ir. Marcel Reinders (Delft University of Technology)
    * prof. dr. Lodewyk Wessels (Netherlands Cancer Institute)
-
-*Course coordinator*:
-   * dr. ir. Perry Moerland
-   * e-mail: p.d.moerland@amsterdamumc.nl
-   * telephone: +31 20 5666945
-
-For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Mascha Jansen](mailto:mascha.jansen@dtls.nl).
-
-## Learning objectives
-
-After having followed this course, the student has a good understanding of a wide range of machine learning techniques and is able to recognize what method is most applicable to data analysis problems (s)he encounters in bioinformatics and systems biology applications.
+     
+For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Petra Aarnoutse](mailto:petra.aarnoutse@health-ri.nl).
 
 ## Target audience
 
 The course is aimed at PhD students with a background in bioinformatics, systems biology, computer science or a related field, and life sciences. Participants from the private sector are also welcome. A working knowledge of basic statistics and linear algebra is assumed. Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background.
 
+## Learning objectives
+
+After having followed this course, the student has a good understanding of a wide range of machine learning techniques and is able to recognize what method is most applicable to data analysis problems (s)he encounters in bioinformatics and systems biology applications.
+
 ## Description
 
-Modern biology is a data-rich science, driven by our ability to measure the detailed molecular characteristics of cells, organs, and individuals at many different levels. Interpretation of these large-scale biological data requires the detection of statistical dependencies and patterns in order to establish useful models of complex biological systems. Techniques from machine learning are key in this endeavour. Typical examples are the visualization of single-cell RNA-seq data using dimensionality reduction methods, base calling for nanopore sequencing data using hidden Markov models and (recurrent) neural networks, and classification of high-throughput microscopy image data using convolutional neural networks. 
+Modern biology is a data-rich science, driven by our ability to measure the detailed molecular characteristics of cells, organs, and individuals at many different levels. Interpretation of these large-scale biological data requires the detection of statistical dependencies and patterns in order to establish useful models of complex biological systems. Techniques from machine learning are key in this endeavour. Examples are the visualization of single-cell RNA-seq data using dimensionality reduction methods, base calling for nanopore sequencing data using (recurrent) neural networks, and classification of high-throughput microscopy image data using convolutional neural networks. 
 
-In this one-week course, the foundations of machine learning will be laid out and commonly used methods for unsupervised (clustering, dimensionality reduction, visualization) and supervised (mainly classification) learning will be explained in detail. Methods will be illustrated using recent examples from the fields of systems biology and bioinformatics. Methods discussed in the morning lectures will be put into practice during the afternoon computer lab sessions. The course can optionally be extended with an assignment in which you write a 5-10 page report describing the analysis of a biological dataset using some of the methods taught in the course.
+In this one-week course, the foundations of machine learning will be laid out and commonly used methods for unsupervised (clustering, dimensionality reduction, visualization) and supervised (mainly classification) learning will be explained in detail. Methods will be illustrated using recent examples from the fields of systems biology and bioinformatics. Methods discussed in the lectures will be put into practice during the computer lab sessions. The course can optionally be extended with an assignment in which you write a 5-10 page report describing the analysis of a biological dataset using some of the methods taught in the course.
 
 ## Registration
 
-You can register for this course by filling out the BioSB [registration form](https://www.dtls.nl/courses/machine-learning-2022/). The maximum number of participants is 25, so register soon to be sure of a course seat! *Update: we reached the maximum number of participants for the 2022 edition. Registration is closed.* If you would like to be put on the waiting list, please use the registration form. If you are interested in the 2023 edition of the course please fill out the [pre-registration form](https://www.dtls.nl/biosb/pre-registration-courses/).
+You can register for this course by filling out the BioSB [registration form](https://www.dtls.nl/courses/machine-learning-for-bioinformatics-and-system-biology-fundamental-2025/). The maximum number of participants is 25, so register soon to be sure of a course seat!
 
 The course fee includes all course material. Lecture slides, a computer lab manual and software required for the computer labs (MATLAB toolboxes) will be made available online.
 
@@ -72,26 +71,26 @@ To use the code and data, download the ZIP file, unpack everything in the same d
     
 ## Assignment
 
-Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. The student will analyse a biological dataset (preferably one from his/her own practice) using some of methods taught in the course, and write a small report (5-10 pages) on the results. If the student has no dataset available, one will be provided. The report will have to be mailed to [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl) no later than three weeks after the course has finished (October 21, 2022). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
+Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. You will analyse a biological dataset (preferably one from your own practice) using some of methods taught in the course, and write a small report (5-10 pages) on the results. If you have no dataset available, one will be provided. The report will have to be mailed to [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl) no later than three weeks after the course has finished (February 14, 2025). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
 
 ## Location and travel information
 
-Course class rooms are located in and around the Amsterdam UMC, location [Academic Medical Center](https://www.google.nl/maps/@52.294629,4.9557843,1121m/data=!3m1!1e3) (AMC; in Dutch: Academisch Medisch Centrum), Meibergdreef 9, Amsterdam.
+Course classrooms are located in the Amsterdam UMC, location [Academic Medical Center](https://www.google.nl/maps/@52.294629,4.9557843,1121m/data=!3m1!1e3) (AMC; in Dutch: Academisch Medisch Centrum), Meibergdreef 9, Amsterdam.
  
 Detailed travel information to the AMC can be found at https://www.amsterdamumc.nl/en/location-amc/address.htm. The metro/train station is at about 10 minutes walking distance from the class rooms and can be reached in less than 30 minutes from Amsterdam Central Station and Schiphol Airport.
  
 ## Schedule
 
-The course will run in the week of *September 26-30 2022*. 
+The course will run in the week of *January 20-24 2025*. 
 
 <!---Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background. After the course, 2-3 days will have to be spent on the report to be handed in by those wanting to do the final assignment.--->
-Each course day will have the following schedule:
+Course days will generally have the following schedule:
 
    * 9.00 - 12.00: 	Lecture
    * 12.00 - 13.00: 	Lunch break 
    * 13.00 - 17.00: 	Computer lab 
 
-*Note that the course material is still going to change before and during ;-) the course week.*
+*Note that the course material is still going to change before and (maybe even during ;-) the course week.*
 
 *Monday* (September 26) -	[Introduction](Day1/Day1.pdf)  
 *Lecturer* 	Marcel Reinders  
