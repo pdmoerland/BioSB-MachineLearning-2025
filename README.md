@@ -91,23 +91,23 @@ Course days will generally have the following schedule:
 
 *Note that we are still updating the course material. Links to the slides will be added later.*
 
-*Monday* (January 20) -	*Introduction, density estimation and classifiers*  
+*Monday* (January 20; L0-227, AMC) -	*Introduction, density estimation and classifiers*  
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Introduction to machine learning. Density estimation: histograms, nearest neighbour, Parzen. Bayesian classification.  Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: logistic regression.
 
-*Tuesday* (January 21) - *Classifiers (continued) and clustering*   
+*Tuesday* (January 21; L0-227, AMC) - *Classifiers (continued) and clustering*   
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Decision trees and random forests. Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization.
 
-*Wednesday* (January 22) - *Feature selection and extraction*  
+*Wednesday* (January 22; L0-227, AMC) - *Feature selection and extraction*  
 *Lecturer* 	Lodewyk Wessels  
 *Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Feature extraction: PCA, Fisher. Embeddings: MDS t-SNE. Sparse classifiers: Ridge, LASSO. 
 
-*Thursday* (January 23) - *Neural networks and support vector machines*  
+*Thursday* (January 23; L0-227, AMC) - *Neural networks and support vector machines*  
 *Lecturer* 	Marcel Reinders  
 *Subjects*  Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation.
 
-*Friday*  (January 24) - *Variational autoencoders and diffusion models*  
+*Friday*  (January 24;  L0-229, AMC) - *Variational autoencoders and diffusion models*  
 *Lecturer* 	Marcel Reinders  
 *Subjects* 	Deep learning: variational autoencoders, diffusion models.  
 
