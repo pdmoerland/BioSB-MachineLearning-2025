@@ -54,7 +54,7 @@ The course fee includes all course material. Lecture slides, a computer lab manu
 All course materials including the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes will be made available before the start of the course. 
 
 Have a look at the following documents before the start of the course:
-   * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
+   * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (mainly probability theory, some linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
    * The computer labs make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to have a look at the Appendices of the computer lab [manual](manual/Manual.pdf). An extensive Matlab [primer](background/Matlab.pdf) is also available. 
 
 <!---During the course Matlab and all other software/data have to be installed on your laptop.--->
