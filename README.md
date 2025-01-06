@@ -87,7 +87,9 @@ Course days will generally have the following schedule:
 
    * 9.00 - 12.00: 	Lecture
    * 12.00 - 13.00: 	Lunch break 
-   * 13.00 - 17.00: 	Computer lab 
+   * 13.00 - 17.00: 	Computer lab
+
+On Friday January 24 there will be session in which each of you has to give a short presentation (5-10 minutes) on a machine learning problem you would like to solve using methods taught in the course, preferably using your own data.
 
 *Note that we are still updating the course material. Links to the slides will be added later.*
 
@@ -106,6 +108,7 @@ Course days will generally have the following schedule:
 *Thursday* (January 23; L0-227, AMC) - *Neural networks and support vector machines*  
 *Lecturer* 	Marcel Reinders  
 *Subjects*  Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation.
+*At 5pm there will be drinks and bites in a café close the AMC* (in collaboration with [YoungCB](https://www.dtls.nl/youngcb/))
 
 *Friday*  (January 24;  L0-229, AMC) - *Variational autoencoders and diffusion models*  
 *Lecturer* 	Marcel Reinders  
