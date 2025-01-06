@@ -92,7 +92,7 @@ Course days will generally have the following schedule:
 
 *Note that the course material is still going to change before and (maybe even during ;-) the course week.*
 
-*Monday* (January 20) -	*Introduction and classifers*  
+*Monday* (January 20) -	*Introduction, density estimation and classifiers*  
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Introduction to machine learning. Density estimation: histograms, nearest neighbour, Parzen. Bayesian classification.  Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: logistic regression.
 
