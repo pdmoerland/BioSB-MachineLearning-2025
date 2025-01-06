@@ -51,7 +51,7 @@ The course fee includes all course material. Lecture slides, a computer lab manu
 
 ## Course material
 
-All course materials are available below and include the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes. 
+All course materials including the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes will be made available before the start of the course. 
 
 Have a look at the following documents before the start of the course:
    * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
@@ -60,11 +60,10 @@ Have a look at the following documents before the start of the course:
 <!---During the course Matlab and all other software/data have to be installed on your laptop.--->
 
    * Material used during the lectures:
-      * [Handouts](website/Handouts.zip) (ZIP/PDF) of the slides used during the course;
-      * Some [lecture notes on HMMs](Day4/LectureNotesHMM.pdf) (PDF) 
+      * Handouts of the slides used during the course (link will be added before the start of the course);
 
    * Material used during the computer labs:
-      * Computer lab [manual](manual/Manual.pdf) (PDF);
+      * Computer lab [manual](manual/Manual.pdf) (PDF; work in progress, so will still change);
       * [Matlab toolboxes and datasets](website/Data_and_code.zip) (ZIP) used, among which PRTools is the most important toolbox.
 
 To use the code and data, download the ZIP file, unpack everything in the same directory and run _prstartup_ from the Matlab command prompt. If you do not have access to a Matlab campus license, install the 30-day free [trial](https://nl.mathworks.com/campaigns/products/trials.html). When indicating toolboxes to install, you should at least select the _Deep Learning_, _Optimization_ and _Statistics and Machine Learning_ toolboxes.
@@ -90,7 +89,7 @@ Course days will generally have the following schedule:
    * 12.00 - 13.00: 	Lunch break 
    * 13.00 - 17.00: 	Computer lab 
 
-*Note that the course material is still going to change before and (maybe even during ;-) the course week.*
+*Note that we are still updating the course material. Links to the slides will be added later.*
 
 *Monday* (January 20) -	*Introduction, density estimation and classifiers*  
 *Lecturer* 	Perry Moerland  
