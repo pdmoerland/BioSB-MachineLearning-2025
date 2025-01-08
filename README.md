@@ -110,7 +110,7 @@ On Friday January 24 there will be session in which each of you has to give a sh
 *Subjects*  Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation.
 *At 5pm there will be drinks and bites in a café close the AMC* (in collaboration with [YoungCB](https://www.dtls.nl/youngcb/))
 
-*Friday*  (January 24;  L0-229, AMC) - *Variational autoencoders and diffusion models*  and *student pitches*
+*Friday*  (January 24;  L0-229, AMC) - *Variational autoencoders and diffusion models* and *student pitches*
 *Lecturer* 	Marcel Reinders  
 *Subjects* 	Deep learning: variational autoencoders, diffusion models.  
 
