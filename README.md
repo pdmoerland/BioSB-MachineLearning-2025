@@ -107,7 +107,7 @@ On Friday January 24 there will be session in which each of you has to give a sh
 
 *Thursday* (January 23; L0-227, AMC) - *Neural networks and support vector machines*  
 *Lecturer* 	Marcel Reinders  
-*Subjects*  Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation.
+*Subjects*  Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation.  
 *At 5pm there will be drinks, bites and a quiz at [Miss Scarlett](https://miss-scarlett.nl/en/homepage/) (nice café, 5 minutes walk from the AMC)* (in collaboration with [YoungCB](https://www.dtls.nl/youngcb/))
 
 *Friday*  (January 24;  L0-229, AMC) - *Variational autoencoders and diffusion models* and *student pitches*  
