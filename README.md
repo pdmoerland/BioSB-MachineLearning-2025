@@ -41,7 +41,9 @@ In this one-week course, the foundations of machine learning will be laid out an
 
 ## Registration
 
-You can register for this course by filling out the BioSB [registration form](https://www.dtls.nl/courses/machine-learning-for-bioinformatics-and-system-biology-fundamental-2025/). The maximum number of participants is 25, so register soon to be sure of a course seat!
+Registration closed on January 16, 2025.
+
+ <!--- You can register for this course by filling out the BioSB [registration form](https://www.dtls.nl/courses/machine-learning-for-bioinformatics-and-system-biology-fundamental-2025/). The maximum number of participants is 25, so register soon to be sure of a course seat!.--->
 
 The course fee includes all course material. Lecture slides, a computer lab manual and software required for the computer labs (MATLAB toolboxes) will be made available online.
 
@@ -110,7 +112,7 @@ On Friday January 24 there will be session in which each of you has to give a sh
 *Subjects*  Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation.  
 *At 5pm there will be drinks, bites and a quiz at [Miss Scarlett](https://miss-scarlett.nl/en/homepage/) (nice café, 5 minutes walk from the AMC)* (in collaboration with [YoungCB](https://www.dtls.nl/youngcb/))
 
-*Friday*  (January 24;  L0-229, AMC) - *Variational autoencoders and diffusion models* and *student pitches*  
+*Friday*  (January 24;  J1B-223, AMC) - *Variational autoencoders and diffusion models* and *student pitches and invited speaker*  
 *Lecturer* 	Marcel Reinders  
 *Subjects* 	Deep learning: variational autoencoders, diffusion models.  
 
