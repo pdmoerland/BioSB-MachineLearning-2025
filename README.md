@@ -53,7 +53,7 @@ The course fee includes all course material. Lecture slides, a computer lab manu
 
 ## Course material
 
-All course materials including the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes will be made available before the start of the course. 
+All course materials including the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes will be made available. 
 
 Have a look at the following documents before the start of the course:
    * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (mainly probability theory, some linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
@@ -76,7 +76,7 @@ Participants requiring a certificate of successful completion (3 ECTS) should ma
 
 ## Location and travel information
 
-Course classrooms are located in the Amsterdam UMC, location [Academic Medical Center](https://www.google.nl/maps/@52.294629,4.9557843,1121m/data=!3m1!1e3) (AMC; in Dutch: Academisch Medisch Centrum), Meibergdreef 9, Amsterdam.
+Course classrooms (Monday-Thursday: L0-227, Friday: J1B-223) are located in the Amsterdam UMC, location [Academic Medical Center](https://www.google.nl/maps/@52.294629,4.9557843,1121m/data=!3m1!1e3) (AMC; in Dutch: Academisch Medisch Centrum), Meibergdreef 9, Amsterdam.
  
 Detailed travel information to the AMC can be found at https://www.amsterdamumc.nl/en/location-amc/address.htm. The metro/train station is at about 10 minutes walking distance from the class rooms and can be reached in less than 30 minutes from Amsterdam Central Station and Schiphol Airport.
  
@@ -87,19 +87,19 @@ The course will run in the week of *January 20-24 2025*.
 <!---Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background. After the course, 2-3 days will have to be spent on the report to be handed in by those wanting to do the final assignment.--->
 Course days will generally have the following schedule:
 
-   * 9.00 - 12.00: 	Lecture
+   * 9.00 - 12.00: 	 Course
    * 12.00 - 13.00: 	Lunch break 
-   * 13.00 - 17.00: 	Computer lab
+   * 13.00 - 17.00: 	Course
 
 On Friday January 24 there will be session in which each of you has to give a short presentation (5-10 minutes) on a machine learning problem you would like to solve using methods taught in the course, preferably using your own data.
 
 *Note that we are still updating the course material. Links to the slides will be added later.*
 
-*Monday* (January 20; L0-227, AMC) -	*Introduction, density estimation and classifiers*  
+*Monday* (January 20; L0-227, AMC) -	*Introduction, density estimation and classification*  
 *Lecturer* 	Perry Moerland  
-*Subjects* 	Introduction to machine learning. Density estimation: histograms, nearest neighbour, Parzen. Bayesian classification.  Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: logistic regression.
+*Subjects* 	Introduction to machine learning. Bayesian classification.  Density estimation: histograms, nearest neighbour, Parzen. Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: logistic regression.
 
-*Tuesday* (January 21; L0-227, AMC) - *Classifiers (continued) and clustering*   
+*Tuesday* (January 21; L0-227, AMC) - *Classificatiion (continued) and clustering*   
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Decision trees and random forests. Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization.
 
