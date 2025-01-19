@@ -53,8 +53,6 @@ The course fee includes all course material. Lecture slides, a computer lab manu
 
 ## Course material
 
-All course materials including the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes will be made available. 
-
 Have a look at the following documents before the start of the course:
    * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (mainly probability theory, some linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
    * The computer labs make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to have a look at the Appendices of the computer lab [manual](manual/Manual.pdf). An extensive Matlab [primer](background/Matlab.pdf) is also available. 
@@ -65,7 +63,7 @@ Have a look at the following documents before the start of the course:
       * Handouts of the slides used during the course (link will be added before the start of the course);
 
    * Material used during the computer labs:
-      * Computer lab [manual](manual/Manual.pdf) (PDF; work in progress, so will still change);
+      * Computer lab [manual](manual/Manual.pdf) (PDF);
       * [Matlab toolboxes and datasets](website/Data_and_code.zip) (ZIP) used, among which PRTools is the most important toolbox.
 
 To use the code and data, download the ZIP file, unpack everything in the same directory and run _prstartup_ from the Matlab command prompt. If you do not have access to a Matlab campus license, install the 30-day free [trial](https://nl.mathworks.com/campaigns/products/trials.html). When indicating toolboxes to install, you should at least select the _Deep Learning_, _Optimization_ and _Statistics and Machine Learning_ toolboxes.
@@ -93,7 +91,7 @@ Course days will generally have the following schedule:
 
 On Friday January 24 there will be session in which each of you has to give a short presentation (5-10 minutes) on a machine learning problem you would like to solve using methods taught in the course, preferably using your own data.
 
-*Note that we are still updating the course material. Links to the slides will be added later.*
+*Links to the slides will be added during the course.*
 
 *Monday* (January 20; L0-227, AMC) -	*Introduction, density estimation and classification*  
 *Lecturer* 	Perry Moerland  
