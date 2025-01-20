@@ -96,7 +96,7 @@ On Friday January 24 there will be session in which each of you has to give a sh
 *Monday* (January 20; L0-227, AMC) -	*Introduction, density estimation and classification*  
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Introduction to machine learning. Bayesian classification.  Density estimation: histograms, nearest neighbour, Parzen. Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: logistic regression.  
-[Slides](Day1/Day.pdf) [Background](Day1/Day0_online.pdf)  
+[Slides](Day1/Day1.pdf) [Background](Day1/Day0_online.pdf)  
 
 *Tuesday* (January 21; L0-227, AMC) - *Classification (continued) and clustering*   
 *Lecturer* 	Perry Moerland  
