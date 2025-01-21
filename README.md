@@ -100,7 +100,7 @@ On Friday January 24 there will be session in which each of you has to give a sh
 
 *Tuesday* (January 21; L0-227, AMC) - *Classification (continued) and clustering*   
 *Lecturer* 	Perry Moerland  
-*Subjects* 	Decision trees and random forests. Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization.
+*Subjects* 	Decision trees and random forests. Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization.  
 [Slides](Day2/Day2.pdf) 
 
 *Wednesday* (January 22; L0-227, AMC) - *Feature selection and extraction*  
