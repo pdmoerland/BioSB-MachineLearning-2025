@@ -105,7 +105,7 @@ On Friday January 24 there will be session in which each of you has to give a sh
 
 *Wednesday* (January 22; L0-227, AMC) - *Feature selection and extraction*  
 *Lecturer* 	Lodewyk Wessels  
-*Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Feature extraction: PCA, Fisher. Embeddings: MDS t-SNE. Sparse classifiers: Ridge, LASSO. 
+*Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Feature extraction: PCA, Fisher. Embeddings: MDS, t-SNE, UMAP, ViVAE. Sparse classifiers: Ridge, LASSO. 
 
 *Thursday* (January 23; L0-227, AMC) - *Neural networks and support vector machines*  
 *Lecturer* 	Marcel Reinders  
