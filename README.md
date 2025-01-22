@@ -60,7 +60,7 @@ Have a look at the following documents before the start of the course:
 <!---During the course Matlab and all other software/data have to be installed on your laptop.--->
 
    * Material used during the lectures:
-      * Handouts of the slides used during the course (link will be added before the start of the course);
+      * [Handouts](website/Handouts.zip) (ZIP, last update Wednesday January 23) of the slides used during the course;
 
    * Material used during the computer labs:
       * Computer lab [manual](manual/Manual.pdf) (PDF);
@@ -105,7 +105,8 @@ On Friday January 24 there will be session in which each of you has to give a sh
 
 *Wednesday* (January 22; L0-227, AMC) - *Feature selection and extraction*  
 *Lecturer* 	Lodewyk Wessels  
-*Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Feature extraction: PCA, Fisher. Embeddings: MDS, t-SNE, UMAP, ViVAE. Sparse classifiers: Ridge, LASSO. 
+*Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Feature extraction: PCA, Fisher. Embeddings: MDS, t-SNE, UMAP, ViVAE. Sparse classifiers: Ridge, LASSO.  
+[Slides](Day3/Day3.pdf) 
 
 *Thursday* (January 23; L0-227, AMC) - *Neural networks and support vector machines*  
 *Lecturer* 	Marcel Reinders  
