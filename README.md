@@ -119,7 +119,7 @@ On Friday January 24 there will be session in which each of you has to give a sh
 *10.30-10.45* break  
 *10.45-12.00* pitches  
 *12.00-13.00* lunch  
-*13.00-13.30* Tim Mocking  
+*13.00-13.30* Tim Mocking. Computational assessment of measurable residual disease in acute myeloid leukemia using mixture models [paper](https://www.nature.com/articles/s43856-024-00700-x)  
 *13.30-16.00* pitches  
 
 ## Pointers
