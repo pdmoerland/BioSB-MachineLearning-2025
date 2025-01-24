@@ -115,8 +115,12 @@ On Friday January 24 there will be session in which each of you has to give a sh
 *At 5pm there will be drinks, bites and a quiz at [Miss Scarlett](https://miss-scarlett.nl/en/homepage/) (nice café, 5 minutes walk from the AMC)* (in collaboration with [YoungCB](https://www.dtls.nl/youngcb/))
 
 *Friday*  (January 24;  J1B-223, AMC) - *Variational autoencoders and diffusion models* and *student pitches and invited speaker*  
-*Lecturer* 	Marcel Reinders  
-*Subjects* 	Deep learning: variational autoencoders, diffusion models.  
+*9.00-10.30* 	Marcel Reinders. Deep learning: variational autoencoders, diffusion models.  
+*10.30-10.45* break  
+*10.45-12.00* pitches  
+*12.00-13.00* lunch  
+*13.00-13.30* Tim Mocking  
+*13.30-16.00* pitches  
 
 ## Pointers
 Additional tools (not required for the course, but perhaps interesting):
