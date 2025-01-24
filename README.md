@@ -114,7 +114,7 @@ On Friday January 24 there will be session in which each of you has to give a sh
 [Slides](Day4/Day4.pdf)  
 *At 5pm there will be drinks, bites and a quiz at [Miss Scarlett](https://miss-scarlett.nl/en/homepage/) (nice café, 5 minutes walk from the AMC)* (in collaboration with [YoungCB](https://www.dtls.nl/youngcb/))
 
-*Friday*  (January 24;  J1B-223, AMC)
+*Friday*  (January 24;  J1B-223, AMC)  
 *9.00-10.30* Marcel Reinders. Deep learning: variational autoencoders, diffusion models.  
 *10.30-10.45* break  
 *10.45-12.00* pitches  
